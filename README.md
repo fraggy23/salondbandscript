@@ -1,3 +1,3 @@
 # salondbandscript
 
-Database and bashscript to manage simple hairsalon
+SQL database and bashscript to manage simple hairsalon
